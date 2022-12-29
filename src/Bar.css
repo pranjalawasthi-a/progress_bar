@@ -1,0 +1,20 @@
+.box{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+}
+
+.buttons{
+    background-color: aqua;
+    color: rgba(255, 0, 85, 0.973);
+    border: none;
+    cursor: pointer;
+    font-size: 18px;
+    margin-left:10px;
+    border-radius: 6px;
+}
+.container{
+    width: 100%;
+    background-color: #ddd;
+    border-radius: 6px;
+}
